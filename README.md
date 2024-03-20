@@ -1,11 +1,10 @@
-# console.log('Hi there 👋')
-Actualmente me encuentro en la búsqueda de una empresa donde pueda volcar mi experiencia como ingeniero mecánico y liderar equipos multidisciplinarios del área TI, para el desarrollo de aplicaciones/software para la gran industria nacional y/o extranjera.
+### Hi there 👋, my name is Tansuani
+#### I am a FullStack develloper Javascript with a Mechanical Engineer background
+I am searching a company where I can lider TI teams.
 
-Here are some ideas to get you started:
+Skills: JAVASCRIPT / REACT / JS / HTML / CSS / BOOTSRAP / NODE / SWAGGER
 
-- 🌱 I’m currently learning: DevOps
+- 🌱 I’m currently learning DevOps 
 
-- 📫 How to reach me: 
-- 😄 Linkedin: https://www.linkedin.com/in/Tansuani-Waring/ 
-- ⚡ mobile: +56995196940 /
--    e-mail: tansuanigomezw@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tansuani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/Tansuani-Waring//)  
